@@ -8,3 +8,6 @@ When the page loads each time new images are uploaded from [unsplash.com](unspla
 
 ### simple-drag-n-drop (2)
 :eyes: [link on deploy](https://redvoxdev.github.io/simple-gallery-minin/drag-n-drop) :point_left:
+
+### simple-slider (3)
+:eyes: [link on deploy](https://redvoxdev.github.io/simple-gallery-minin/slider) :point_left:
