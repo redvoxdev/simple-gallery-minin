@@ -11,3 +11,6 @@ When the page loads each time new images are uploaded from [unsplash.com](unspla
 
 ### simple-slider (3)
 :eyes: [link on deploy](https://redvoxdev.github.io/simple-gallery-minin/slider) :point_left:
+
+### simple-mini-game (4)
+:eyes: [link on deploy](https://redvoxdev.github.io/simple-gallery-minin/mini-game) :point_left:
